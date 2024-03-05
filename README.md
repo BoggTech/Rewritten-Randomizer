@@ -34,3 +34,5 @@ multify -c -f PackName.mf phase_3 phase_3.5 phase_4 phase_5 phase_5.5 phase_6 ph
 - Make sure every folder within `output/resources` is included in this command. If you chose to include a pack icon, add `pack.png` to it. Feel free to edit PackName to whatever you want.
 
 After doing all of this, assuming there was no errors, you should be left with a file named `PackName.mf`, or something else if you decided to change `PackName` in the previous command. Drag this into Toontown Rewritten's content packs folder and refresh the list if you are in-game. Your randomized content pack is **ready to use!**
+
+If you want more information on content packs, check out the [Toontown Rewritten FAQ](https://www.toontownrewritten.com/help/faq/content-packs) or [contentpacks.net](https://contentpacks.net/contact.html) and their affiliated discord server.
